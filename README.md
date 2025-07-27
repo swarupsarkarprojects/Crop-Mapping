@@ -1,4 +1,4 @@
-# Crop-Mapping using Senitnel and and Random Forest Classifer method in Google Colab Python:
+# Crop-Mapping using Senitnel and Random Forest Classifer method in Google Colab Python:
 This project demonstrates crop mapping using Sentinel‑2 surface reflectance imagery with Google Earth Engine and Python on Google Colab.
 It uses vegetation indices (NDVI, NDWI, EVI) and a Random Forest classifier to distinguish crop vs non‑crop areas, then exports the classified raster.
 
